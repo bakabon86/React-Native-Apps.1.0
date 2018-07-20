@@ -16,6 +16,7 @@
 Clone this repository
 ```
 Install node modules, [Yarn](https://yarnpkg.com/en/) is highly recommended.
+[NodeJS](https://node.js) also suitable.
 ```
 $ yarn
 ```
